@@ -1,7 +1,7 @@
 ###################################################
 #Script Name            :ModifyPSWebConfig.ps1
 #Description            :This Script controls the threshold of the limitation by editing the web.config file to the, from Professional Service SVA, recommended size of 3000.
-#						 For further details check 	https://forums.ivanti.com/s/article/Personalization-sync-failures-with-MS-Security-Update-KB2656356-MS11-100					
+#						 for further details check 	https://forums.ivanti.com/s/article/Personalization-sync-failures-with-MS-Security-Update-KB2656356-MS11-100					
 #Author                 :Sebastian Flint
 #E-Mail                 :sebastian.flint@sva.de
 ###################################################
